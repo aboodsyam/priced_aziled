@@ -5,6 +5,8 @@ import 'package:priced_aziled/Scerrn/faqs_scree.dart';
 class leuceh2 extends StatefulWidget {
   const leuceh2({super.key});
 
+  //Hime
+
   @override
   State<leuceh2> createState() => _leuceh2State();
 }
